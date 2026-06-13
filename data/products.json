@@ -1,0 +1,106 @@
+[
+    {
+        "id": "90f7ef1c-2667-404a-8256-75eaef0e384d",
+        "name": "iPhone 15 Pro",
+        "description": "Apple's latest flagship smartphone with titanium design and A17 Pro chip.",
+        "category": {
+            "name": "Electronics",
+            "sub_category": "Smartphones"
+        },
+        "price_details": {
+            "price": 999.99,
+            "discount_percentage": 10.0,
+            "tax_rate": 8.0
+        },
+        "inventory": {
+            "quantity": 15,
+            "low_stock_threshold": 5
+        },
+        "tags": [
+            "phone",
+            "apple",
+            "ios",
+            "electronics"
+        ],
+        "created_at": "2026-06-12T20:06:45.885541+00:00",
+        "updated_at": "2026-06-12T20:06:45.885541+00:00"
+    },
+    {
+        "id": "edfd01fd-e01a-4a31-81d1-3c93b39f7247",
+        "name": "Sony WH-1000XM5",
+        "description": "Industry-leading noise-canceling wireless over-ear headphones with superior audio.",
+        "category": {
+            "name": "Electronics",
+            "sub_category": "Audio"
+        },
+        "price_details": {
+            "price": 399.99,
+            "discount_percentage": 15.0,
+            "tax_rate": 5.0
+        },
+        "inventory": {
+            "quantity": 3,
+            "low_stock_threshold": 5
+        },
+        "tags": [
+            "audio",
+            "headphones",
+            "sony",
+            "electronics"
+        ],
+        "created_at": "2026-06-12T20:06:45.885541+00:00",
+        "updated_at": "2026-06-12T20:06:45.885541+00:00"
+    },
+    {
+        "id": "c29bac63-6971-464b-a756-0bbabe592cf0",
+        "name": "Ergonomic Office Chair",
+        "description": "High-back mesh office chair with lumbar support and 3D adjustable armrests.",
+        "category": {
+            "name": "Furniture",
+            "sub_category": "Office"
+        },
+        "price_details": {
+            "price": 249.99,
+            "discount_percentage": 0.0,
+            "tax_rate": 10.0
+        },
+        "inventory": {
+            "quantity": 25,
+            "low_stock_threshold": 8
+        },
+        "tags": [
+            "furniture",
+            "office",
+            "chair",
+            "ergonomic"
+        ],
+        "created_at": "2026-06-12T20:06:45.885541+00:00",
+        "updated_at": "2026-06-12T20:06:45.885541+00:00"
+    },
+    {
+        "id": "60ab6f6b-9450-4211-9ccc-4a0eedc47489",
+        "name": "Hydro Flask Water Bottle",
+        "description": "Double-wall vacuum insulated stainless steel water bottle with wide mouth leakproof cap.",
+        "category": {
+            "name": "Home & Kitchen",
+            "sub_category": "Drinkware"
+        },
+        "price_details": {
+            "price": 45.0,
+            "discount_percentage": 5.0,
+            "tax_rate": 0.0
+        },
+        "inventory": {
+            "quantity": 0,
+            "low_stock_threshold": 5
+        },
+        "tags": [
+            "bottle",
+            "kitchen",
+            "water",
+            "hydroflask"
+        ],
+        "created_at": "2026-06-12T20:06:45.885541+00:00",
+        "updated_at": "2026-06-12T20:06:45.885541+00:00"
+    }
+]
